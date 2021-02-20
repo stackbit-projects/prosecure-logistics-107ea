@@ -53,7 +53,7 @@ class Components extends React.Component {
                 <div className={classes.brand}>
                   <h1 className={classes.title}>ProSecure Logistics</h1>
                   <h3 className={classes.subtitle}>
-                    A Badass Material-UI Kit based on Material Design.
+                    Any Load, Anywhere, Anytime
                   </h3>
                 </div>
               </GridItem>
